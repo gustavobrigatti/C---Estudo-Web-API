@@ -1,0 +1,61 @@
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\appsettings.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.staticwebassets.endpoints.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.exe
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.deps.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.runtimeconfig.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Estudo 1 - Web API.pdb
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.AssemblyInfo.cs
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\scopedcss\bundle\Estudo 1 - Web API.styles.css
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets\msbuild.Estudo 1 - Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets\msbuild.Estudo 1 - Web API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.Estudo 1 - Web API.props
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estudo 1 - Web API.props
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estudo 1 - Web API.props
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1.ADAB0FAC.Up2Date
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\refint\Estudo 1 - Web API.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.pdb
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\Estudo 1 - Web API.genruntimeconfig.cache
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\obj\Debug\net8.0\ref\Estudo 1 - Web API.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gusta\Desktop\Projetos\Meus\C#\Estudo 1 - Web API\Estudo 1 - Web API\bin\Debug\net8.0\AutoMapper.dll
