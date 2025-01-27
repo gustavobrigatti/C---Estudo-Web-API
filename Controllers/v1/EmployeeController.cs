@@ -5,10 +5,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 
-namespace Estudo_1___Web_API.Controllers
+namespace Estudo_1___Web_API.Controllers.v1
 {
     [ApiController]
-    [Route("api/v1/employee")]
+    [Route("api/v{version:apiVersion}/employee")]
+    [ApiVersion("1.0")]
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeRepository _employeeRepository;
@@ -30,7 +31,7 @@ namespace Estudo_1___Web_API.Controllers
 
             using Stream fileStream = new FileStream(filePath, FileMode.Create);
             employeeView.Photo.CopyTo(fileStream);
-            
+
             var employee = new Employee(employeeView.Name, employeeView.Age, filePath);
 
             _employeeRepository.Add(employee);
