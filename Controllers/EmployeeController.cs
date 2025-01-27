@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using Estudo_1___Web_API.Application.ViewModel;
-using Estudo_1___Web_API.Domain.Models;
 using Estudo_1___Web_API.Domain.DTOs;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 
 namespace Estudo_1___Web_API.Controllers
 {

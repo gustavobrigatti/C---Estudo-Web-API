@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estudo 1 - Web API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9bddb512262908fc8bc5fd9fdf9a770d2a5792")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estudo 1 - Web API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estudo 1 - Web API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿using Estudo_1___Web_API.Domain.DTOs;
 
-namespace Estudo_1___Web_API.Domain.Models
+namespace Estudo_1___Web_API.Domain.Models.EmployeeAggregate
 {
     public interface IEmployeeRepository
     {

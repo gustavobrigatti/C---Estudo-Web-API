@@ -1,6 +1,6 @@
 using Estudo_1___Web_API;
 using Estudo_1___Web_API.Application.Mapping;
-using Estudo_1___Web_API.Domain.Models;
+using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 using Estudo_1___Web_API.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;

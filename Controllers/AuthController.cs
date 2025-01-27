@@ -1,5 +1,5 @@
 ﻿using Estudo_1___Web_API.Application.Services;
-using Estudo_1___Web_API.Domain.Models;
+using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Estudo_1___Web_API.Controllers

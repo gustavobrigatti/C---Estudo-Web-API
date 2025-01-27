@@ -1,10 +1,12 @@
-﻿using Estudo_1___Web_API.Domain.Models;
+﻿using Estudo_1___Web_API.Domain.Models.CompanyAggregate;
+using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 using Microsoft.EntityFrameworkCore;
 
 namespace Estudo_1___Web_API.Infrastructure
 {
     public class ConnectionContext : DbContext
     {
+        public DbSet<Company> Companies { get; set; }
         public DbSet<Employee> Employees { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

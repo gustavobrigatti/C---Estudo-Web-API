@@ -1,4 +1,4 @@
-﻿using Estudo_1___Web_API.Domain.Models;
+﻿using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;

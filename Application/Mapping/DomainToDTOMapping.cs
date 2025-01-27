@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Estudo_1___Web_API.Domain.DTOs;
-using Estudo_1___Web_API.Domain.Models;
+using Estudo_1___Web_API.Domain.Models.EmployeeAggregate;
 
 namespace Estudo_1___Web_API.Application.Mapping
 {
